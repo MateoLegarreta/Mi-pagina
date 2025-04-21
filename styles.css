@@ -152,11 +152,12 @@ aside{
 }
 
 .section1{
+    background-color: rgb(28, 40, 51);
     display: inline-block;
     width: 79.47%;
     height: 900px;
     vertical-align: top;
-  
+    
 }
 
 .botones{
